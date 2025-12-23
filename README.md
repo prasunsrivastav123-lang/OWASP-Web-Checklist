@@ -166,10 +166,10 @@
 - [ ] Test that file size limits, upload frequency and total file counts are defined and are enforced
 - [ ] Test that file contents match the defined file type
 - [ ] Test that all file uploads have Anti-Virus scanning in-place.
-- [ ] Test that unsafe filenames are sanitised
+- [ ] Test that unsafe filenames are sanitized
 - [ ] Test that uploaded files are not directly accessible within the web root
 - [ ] Test that uploaded files are not served on the same hostname/port
-- [ ] Test that files and other media are integrated with the authentication and authorisation schemas
+- [ ] Test that files and other media are integrated with the authentication and authorization schemas
 
 
 ### <a name="Card">Risky Functionality - Card Payment</a>
